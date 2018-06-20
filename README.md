@@ -9,5 +9,8 @@
 * Ryba w momencie wypłynięcia poza skybox znika, a w jej miejsce pojawia się nowa w losowym punkcie.
 * W shaderze jest zaimplementowane mapowanie normalnych
 * Scena posiada 3 źródła światła
+* Zmiana oświetlenia rekina podczas poruszania się/obracania się
+* Na każdy obiekt nałożona jest tekstura
+* Każdy obiekt jest oświetlony
 
 ![Rybki](https://github.com/q12e/GRK_projekt/blob/master/Grk-plywajac%20z%20rybkami.png)
