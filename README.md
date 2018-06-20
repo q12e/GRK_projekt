@@ -15,5 +15,5 @@ Projekt wykonany na zaliczenie przedmiotu `Grafika komputerowa i wizualizacja` n
 * Zmiana oświetlenia rekina podczas poruszania się/obracania się
 * Na każdy obiekt nałożona jest tekstura
 * Każdy obiekt jest oświetlony
-
+## Zdjęcie poglądowe
 ![Rybki](https://github.com/q12e/GRK_projekt/blob/master/Grk-plywajac%20z%20rybkami.png)
