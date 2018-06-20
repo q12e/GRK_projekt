@@ -1,4 +1,7 @@
 # GRK_projekt
+Autorzy: Patryk Kasprzak(426150) i Mikołaj Herwart(426143)<br>
+Projekt wykonany na zaliczenie przedmiotu `Grafika komputerowa i wizualizacja` na Wydziale Matematyki i Informatyki(UAM).
+## Krótki opis
 * Ryby są tworzone losowo, podczas tworzenia ryb, dla każdej jest losowany kierunek poruszania się oraz wielkość.
 * Wodorosty są tworzone losowo, dla każdego jest losowany obrót.
 * Ryby są zaimplementowane obiektowo i posiadają dwie metody: `Move()` i `Render()`. Obie metody wywoływane są z poziomu `renderScene()`
